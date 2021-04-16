@@ -1,0 +1,19 @@
+{
+  "name": "lineup_generator",
+  "version": "1.0.0",
+  "description": "A codified implementation of generating sports lineups for DraftKings betting games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccaskey06/lineup_generator.git"
+  },
+  "author": "Corey Caskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccaskey06/lineup_generator/issues"
+  },
+  "homepage": "https://github.com/ccaskey06/lineup_generator#readme"
+}
