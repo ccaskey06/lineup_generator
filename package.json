@@ -4,7 +4,8 @@
   "description": "A codified implementation of generating sports lineups for DraftKings betting games",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node index.js"
   },
   "repository": {
     "type": "git",

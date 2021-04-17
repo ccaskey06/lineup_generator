@@ -1,8 +1,0 @@
-1. Create package.json —— use 'npm init' or set up manually
-2. Create 'index.js' file as entry point for application
-3. Set up repository
-    - Add README
-    - Add .gitignore
-    - Add a license (optional)
-
-
